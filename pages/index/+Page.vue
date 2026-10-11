@@ -1,4 +1,4 @@
-<template>
+<template> 
   <main class="flex min-h-screen flex-col bg-muted/30">
     <header class="fixed inset-x-0 top-0 z-50 border-b bg-background/95 backdrop-blur">
       <div class="mx-auto flex min-h-16 max-w-6xl items-center justify-between gap-4 px-5">
